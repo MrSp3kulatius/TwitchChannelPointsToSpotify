@@ -12,7 +12,7 @@ streamer_name = "MrSp3kulatius"
 
 spotify_client_id = "e04050959266419e92967666c0cc6144"
 spotify_client_secret = "ae69ee2e0dec4498bcdd60e4e961c1ed"
-spotify_redirect_uri = "http://localhost:1337/"
+spotify_redirect_uri = "http://localhost:1337"
 spotify_playlist = "2ilZWj2VEKmLaYNwRjMFhm"
 
 twitch_client_id = "2fleeknulzmytf9q3llzx5qekrmeuc"
