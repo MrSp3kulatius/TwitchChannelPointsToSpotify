@@ -8,15 +8,15 @@ from spotipy.oauth2 import SpotifyOAuth
 from twitchio.ext import pubsub
 
 reward_name = "Add Song to Spotify Playlist"
-streamer_name = ""
+streamer_name = "MrSp3kualtius"
 
-spotify_client_id = ""
-spotify_client_secret = ""
+spotify_client_id = "f692a6e59440469a8e86ee9aa54c1001"
+spotify_client_secret = "93b64abbe8be430f919176d422ab3c62"
 spotify_redirect_uri = "http://localhost:1337"
-spotify_playlist = ""
+spotify_playlist = "2ilZWj2VEKmLaYNwRjMFhm?si=aac4f0c697334a2c&nd=1"
 
-twitch_client_id = ""
-twitch_client_secret = ""
+twitch_client_id = "2fleeknulzmytf9q3llzx5qekrmeuc"
+twitch_client_secret = "kxt4j7p6n1hevydpf387qn5omhaykd"
 
 
 def callback_spotify(uuid: UUID, data: dict) -> None:
